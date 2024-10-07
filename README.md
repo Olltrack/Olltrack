@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oleg</h1>
 <h3 align="center">Currently studying Computer Science at IUT Paris Rives de Seine</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **C#**
 
 - 📫 How to reach me **oleghiegel@gmail.com**
 
