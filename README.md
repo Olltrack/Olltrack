@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oleg</h1>
-<h3 align="center">Currently studying Computer Science at IUT Paris Rives de Seine</h3>
+<h3 align="center">Currently studying Computer Science at EFREI</h3>
 
 - 🌱 I’m currently learning **C#**
 
